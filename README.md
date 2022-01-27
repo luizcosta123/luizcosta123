@@ -1,7 +1,7 @@
 ### Hi, I'm Luiz Afonso
 
 - 🔭 Engineering computer student
-- 🌱 Studying HTML5, CSS3, JavaScript, C, C++, Java, SQL
+- 🌱 Studying: HTML5, CSS3, JavaScript, C, C++, Java, SQL
 - 📫 Email: luizcosta12322@yahoo.com
 
 <div align="center">

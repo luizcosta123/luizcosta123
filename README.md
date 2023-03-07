@@ -17,7 +17,7 @@
   <img align="center" alt="Luiz-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Luiz-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png">
-  <img align="center" alt="Luiz-SpringBoot" height="30" width="40" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg">
+  <img align="center" alt="Luiz-SpringBoot" height="40" width="40" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4">
 </div>
 
 ##

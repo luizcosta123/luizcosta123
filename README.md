@@ -2,7 +2,7 @@
 
 - ☕ Java Developer
 - 🔭 Engineering computer student
-- 🌱 Studying: Java, Spring Boot, PostgresSQL, MySql, MongoDB, Angular, React, TypeScript, JavaScript, SQL, HTML5, CSS3, Tailwind, C, C++
+- 🌱 Studying: Java, Spring Boot, PostgresSQL, MySql, MongoDB, SQL, Angular, React, TypeScript, JavaScript, Tailwind, C, C++
 - 📫 Email: luizcosta12322@yahoo.com
 
 <div align="center">

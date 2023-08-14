@@ -1,7 +1,8 @@
 ## Hi, I'm Luiz Afonso
 
+- ☕ Java Developer
 - 🔭 Engineering computer student
-- 🌱 Studying: Java, Spring Boot, Angular, React, TypeScript, JavaScript, SQL, HTML5, CSS3, Tailwind, C, C++
+- 🌱 Studying: Java, Spring Boot, PostgresSQL, MySql, MongoDB, Angular, React, TypeScript, JavaScript, SQL, HTML5, CSS3, Tailwind, C, C++
 - 📫 Email: luizcosta12322@yahoo.com
 
 <div align="center">
